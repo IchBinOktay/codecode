@@ -379,21 +379,29 @@
 
 //------------------------------------------------------------------------------
 //13
-//int sira = 9; 
 
-//for (int i = 1; i <= sira; i++)
+//int sira = 9;
+
+//for (int i = 0; i <= sira; i++)
 //{
-//    Console.WriteLine(new string('*', i));
+//    for (int num = 1; num <= i; num++)
+//    {
+//        Console.Write("*");
+//    }
+//        Console.WriteLine();
 //}
 
 //---------------------------------------------------------------
 //14
 
-//int sira = 9; 
-
+//int sira = 9;
 //for (int i = sira; i >= 1; i--)
 //{
-//    Console.WriteLine(new string('*', i));
+//    for (int num = 1; num <= i; num++)
+//    {
+//        Console.Write("*");
+//    }
+//    Console.WriteLine();
 //}
 
 
